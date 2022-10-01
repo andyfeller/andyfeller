@@ -1,6 +1,6 @@
 # Nice to meet you! :wave:
 
-**About me**
+### About me
 
 <details>
   <summary>What are some honest, unfiltered things about you?</summary>
@@ -37,7 +37,7 @@
 
   * I tend to step in and potentially overstep when I perceive disorder, conflict, confusion, or ambiguity; please believe this comes from a good place.
   * I am a very visual person :framed_picture: and might need to sketch or diagram problems to understand them better.
-  * I might jokingly :laughing: say I hate all programming languages or tools as a way of staying detached; they **all** have strengths, weaknesses, and idiosyncrasies.
+  * I might jokingly :laughing: say I hate all programming languages or tools as a way of staying detached; they ### all have strengths, weaknesses, and idiosyncrasies.
   * I believe writing documentation or communications takes as much thought and effort as writing code; sometimes it takes time
 </details>
 
@@ -47,7 +47,7 @@
   * Sometimes my :thinking: face gets confused with my :angry: or :rage: face; being a :bald_man: makes facial features more distinct but :bow: for patience
 </details>
 
-**About my colleagues**
+### About my colleagues
 
 <details>
   <summary>What qualities do you particularly value in your colleagues?</summary>
@@ -74,7 +74,7 @@
   * Take and own responsibility actively!
 </details>
 
-**About my interactions**
+### About my interactions
 
 <details>
   <summary>How do you coach people to do their best work and develop their talents?</summary>
