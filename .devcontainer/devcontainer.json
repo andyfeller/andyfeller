@@ -10,18 +10,6 @@
       "label": "Website"
     }
   },
-  "customizations": {
-    "codespaces": {
-      "repositories": {
-        "some-natalie/work-stuff": {
-          "permissions": {
-            "contents": "write",
-            "pull_requests": "write"
-          }
-        }
-      }
-    }
-  },
   "postCreateCommand": {
     "bundle": "bundle",
     "clone-repos": ".devcontainer/post-create.sh",
