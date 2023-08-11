@@ -172,22 +172,6 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
-  # _recipes
-  - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: page
-      categories:
-        - recipes
-  # _drinks
-  - scope:
-      path: "_drinks"
-      type: drinks
-    values:
-      layout: page  
-      categories:
-        - drinks 
 
 sass:
   style: compressed
