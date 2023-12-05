@@ -1,5 +1,7 @@
 # Nice to meet you! :wave:
 
+<img align="right" height="400" src="https://github.com/andyfeller/andyfeller/assets/2089743/20b9cc81-e35b-40c3-90d5-84ad4728b7ff" />
+
 ### About me :technologist:
 
 <details>
